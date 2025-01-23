@@ -6,8 +6,8 @@
   
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Sobre o Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Funcionalidades do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-o-desafio">Sobre o Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionalidades-do-projeto">Funcionalidades do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -24,7 +24,7 @@
 `Git`
 `Github`
 
-## 💡 Sobre o desafio 💡
+## 💡 Sobre o Desafio 💡
 
 O propósito deste desafio é praticar os conceitos adquiridos sobre lógica de programação.
 Para isso, foi fornecido o código HTML e CSS, permitindo que o foco esteja totalmente nos aspectos fundamentais da lógica de programação, como:
@@ -34,7 +34,7 @@ Para isso, foi fornecido o código HTML e CSS, permitindo que o foco esteja tota
 - funções
 - listas
 
-## :hammer: Funcionalidades do projeto
+## 🔨 Funcionalidades do Projeto
 
 - `Adicionar nomes:` Adiciona os nomes inseridos pelo usuário no campo de texto, criando uma lista visível.
 - `Validar entrada:` Valida as informações inseridas, se o campo estiver vazio, o programa exibirá um alerta solicitando um nome válido.
