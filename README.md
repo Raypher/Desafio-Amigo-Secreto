@@ -48,5 +48,5 @@ Para isso, foi fornecido o código HTML e CSS, permitindo que o foco esteja tota
 ## Badge pela Conclusão do Desafio
 
 <p align="center">
-     <img width="200" heigth="200" src="">
+     <img width="400" heigth="400" src="https://github.com/Raypher/Desafio-Amigo-Secreto/blob/main/assets/badge.png"<p align="center">
 </p>
